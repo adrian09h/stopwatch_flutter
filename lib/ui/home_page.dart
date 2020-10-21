@@ -19,6 +19,12 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
   }
+  @override
+  void dispose() {
+    super.dispose();
+    if (_timer != null)
+      _timer.cancel();
+  }
   void _startTimer() {
     if (_timer == null) {
       _timer = Timer.periodic(Duration(milliseconds: 10), (timer) {
@@ -28,7 +34,9 @@ class _HomePageState extends State<HomePage> {
       });
     } else {
       _timer.cancel();
-      _timer = null;
+      setState(() {
+        _timer = null;
+      });
     }
   }
   void _resetTimer() {
