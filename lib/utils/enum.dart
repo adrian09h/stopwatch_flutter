@@ -1,0 +1,4 @@
+enum TimeFormat {
+  second,
+  centiSecond,
+}
