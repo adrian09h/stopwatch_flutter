@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Recording] (https://thumbs.gfycat.com/HarshSmallFlyingfox-mobile.mp4)
+![] (https://github.com/adrian09h/stopwatch_flutter/blob/master/recodings/ezgif-4-176a23c0fc77.gif)
