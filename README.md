@@ -1,6 +1,6 @@
 # stopwatch
 
-A new Flutter application.
+A Simple Flutter Stopwatch application.
 
 ## Getting Started
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![Recording] (https://thumbs.gfycat.com/HarshSmallFlyingfox-mobile.mp4)
